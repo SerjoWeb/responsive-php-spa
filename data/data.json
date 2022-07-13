@@ -4,8 +4,12 @@
     "name": "A-frame Red",
     "description": "Вместимость - до 6 человек с размещением в 2 отдельных спальнях и на удобном диване-кровати в гостиной. Класс - \"Комфорт+\". Панорамное остекление фасадов - гостиной со \"вторым светом\" и спальни, расположенной на 2 этаже.",
     "images": [
-      "https://reservationsteps.ru/files/28/51/2851e26507f50ed664285a501bae6b3f_1050x600.jpg",
-      "https://reservationsteps.ru/files/e3/4c/e34c95a666d938d0abc8247599eaa21f_1050x600.jpg"
+      "/assets/img/captain-villa/1.jpg",
+      "/assets/img/captain-villa/2.jpg",
+      "/assets/img/captain-villa/3.jpg",
+      "/assets/img/captain-villa/4.jpg",
+      "/assets/img/captain-villa/5.jpg",
+      "/assets/img/captain-villa/6.jpg"
     ],
     "price": 12000
   },
@@ -14,11 +18,19 @@
     "name": "A-frame Orange",
     "description": "Стиль, уют и восторг – обычно именно это в первую секунду знакомства с A-frame испытывают наши гости. Стильные треугольные домики как будто переместились в реальную жизнь с картинки из детских сказок. ",
     "images": [
-      "https://reservationsteps.ru/files/88/05/8805d5006779ae0999a6bde021020d8e_1050x600.jpg",
-      "https://reservationsteps.ru/files/97/d9/97d9a0a8a35332c82009e8b36af6d874_1050x600.jpg",
-      "https://reservationsteps.ru/files/3f/c3/3fc3f9e07d2def0e98a36a9eb044f8fe_1050x600.jpg",
-      "https://reservationsteps.ru/files/19/55/195532353e6a62aa383fe4699d7dbed2_1050x600.jpg",
-      "https://reservationsteps.ru/files/c8/b0/c8b0e7307e4da27356a2248876ffc9fc_1050x600.jpg"
+      "/assets/img/emma-villa/1.jpg",
+      "/assets/img/emma-villa/2.jpg",
+      "/assets/img/emma-villa/3.jpg",
+      "/assets/img/emma-villa/4.jpg",
+      "/assets/img/emma-villa/5.jpg",
+      "/assets/img/emma-villa/6.jpg",
+      "/assets/img/emma-villa/7.jpg",
+      "/assets/img/emma-villa/8.jpg",
+      "/assets/img/emma-villa/9.jpg",
+      "/assets/img/emma-villa/10.jpg",
+      "/assets/img/emma-villa/11.jpg",
+      "/assets/img/emma-villa/12.jpg",
+      "/assets/img/emma-villa/13.jpg"
     ],
     "price": 10660
   },
@@ -27,11 +39,15 @@
     "name": "A-frame Lime",
     "description": "",
     "images": [
-      "https://reservationsteps.ru/files/11/7f/117f1540922823218b34f93f4cf8d187_1050x600.jpg",
-      "https://reservationsteps.ru/files/be/94/be94ff26449c711429ee69f64384e83e_1050x600.jpg",
-      "https://reservationsteps.ru/files/6c/4d/6c4d98fe1a89c2a2b1fed9601e023b80_1050x600.jpg",
-      "https://reservationsteps.ru/files/88/d7/88d7f4fac81ebc06c1a77e697e2733a6_1050x600.jpg",
-      "https://reservationsteps.ru/files/90/29/9029436fca92d4fbf3a674275a7a1a2b_1050x600.jpg"
+      "/assets/img/paul-villa/1.jpg",
+      "/assets/img/paul-villa/2.jpg",
+      "/assets/img/paul-villa/3.jpg",
+      "/assets/img/paul-villa/4.jpg",
+      "/assets/img/paul-villa/5.jpg",
+      "/assets/img/paul-villa/6.jpg",
+      "/assets/img/paul-villa/7.jpg",
+      "/assets/img/paul-villa/8.jpg",
+      "/assets/img/paul-villa/9.jpg"
     ],
     "price": 10000
   }
